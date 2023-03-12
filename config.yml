@@ -9,3 +9,5 @@ params:
     socialIcons:
       - name: "github"
         url: "https://www.github.com/stivencardona"
+      - name: "linkedin"
+        url: "https://www.linkedin.com/in/stiven-cardona-monsalve/"
