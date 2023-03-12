@@ -1,5 +1,7 @@
 ---
-title: "Solucion ejercicio 1"
+title: "Piramide"
+summary: "Solucion ejercicio 7"
+description: "Solucion ejercicio 7"
 date: 2023-03-12
 tags: ["ciclos"]
 ---

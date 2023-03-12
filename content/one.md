@@ -1,7 +1,10 @@
 ---
-title: "Solucion ejercicio 1"
+title: "De 1 hasta n"
+summary: "Solucion ejercicio 1"
+description: "Solucion ejercicio 1"
 date: 2023-03-12
 tags: ["ciclos"]
+draft: true
 ---
 ```cpp
 #include <iostream>

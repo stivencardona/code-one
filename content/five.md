@@ -1,7 +1,10 @@
 ---
-title: "Solucion ejercicio 1"
+title: "Triangulo"
 date: 2023-03-12
+summary: "Solucion ejercicio 5"
+description: "Solucion ejercicio 5"
 tags: ["ciclos"]
+draft: true
 ---
 ```cpp
 #include <iostream>

@@ -1,7 +1,10 @@
 ---
-title: "Solucion ejercicio 1"
+title: "Es primo"
+summary: "Solucion ejercicio 4"
+description: "Solucion ejercicio 4"
 date: 2023-03-12
 tags: ["ciclos"]
+draft: true
 ---
 ```cpp
 #include <iostream>
@@ -15,9 +18,9 @@ int main() {
     divs += ( n % i == 0 );
   }
   if(divs) {
-    cout << n << " is not prime\n";
+    cout << n << " no es primo\n";
   } else {
-    cout << n << " is prime\n";
+    cout << n << " es primo\n";
   }
   return 0;
 }

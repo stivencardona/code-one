@@ -1,5 +1,7 @@
 ---
-title: "Solucion ejercicio 1"
+title: "Pares"
+summary: "Solucion ejercicio 2"
+description: "Solucion ejercicio 2"
 date: 2023-03-12
 tags: ["ciclos"]
 ---

@@ -8,66 +8,66 @@
     <language>es-co</language>
     <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Solucion ejercicio 1</title>
-      <link>http://example.org/solutions/ciclos/five/</link>
+      <title>De 1 hasta n</title>
+      <link>http://example.org/one/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/solutions/ciclos/five/</guid>
-      <description>#include &amp;lt;iostream&amp;gt; using namespace std; int main() { int levels; cin &amp;gt;&amp;gt; levels; for(int level = 1; level &amp;lt;= levels; level++) { for(int aster = 1; aster &amp;lt;= level; aster++) { cout &amp;lt;&amp;lt; &amp;#34;* &amp;#34;; } cout &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; } } </description>
+      <guid>http://example.org/one/</guid>
+      <description>Solucion ejercicio 1</description>
     </item>
     
     <item>
-      <title>Solucion ejercicio 1</title>
-      <link>http://example.org/solutions/ciclos/four/</link>
+      <title>Es primo</title>
+      <link>http://example.org/four/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/solutions/ciclos/four/</guid>
-      <description>#include &amp;lt;iostream&amp;gt; using namespace std; int main() { int n; cin &amp;gt;&amp;gt; n; int divs = 0; for (int i = 2; i &amp;lt;= sqrt(n); i++) { divs += ( n % i == 0 ); } if(divs) { cout &amp;lt;&amp;lt; n &amp;lt;&amp;lt; &amp;#34; is not prime\n&amp;#34;; } else { cout &amp;lt;&amp;lt; n &amp;lt;&amp;lt; &amp;#34; is prime\n&amp;#34;; } return 0; } </description>
+      <guid>http://example.org/four/</guid>
+      <description>Solucion ejercicio 4</description>
     </item>
     
     <item>
-      <title>Solucion ejercicio 1</title>
-      <link>http://example.org/solutions/ciclos/one/</link>
+      <title>Impares</title>
+      <link>http://example.org/three/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/solutions/ciclos/one/</guid>
-      <description>#include &amp;lt;iostream&amp;gt; using namespace std; int main() { int n; cin &amp;gt;&amp;gt; n; for (int i = 1; i &amp;lt;= n; i++) { cout &amp;lt;&amp;lt; i &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; } return 0; } </description>
+      <guid>http://example.org/three/</guid>
+      <description>Solucion ejercicio 3</description>
     </item>
     
     <item>
-      <title>Solucion ejercicio 1</title>
-      <link>http://example.org/solutions/ciclos/seven/</link>
+      <title>Pares</title>
+      <link>http://example.org/two/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/solutions/ciclos/seven/</guid>
-      <description>#include &amp;lt;iostream&amp;gt; using namespace std; int main() { int levels; cin &amp;gt;&amp;gt; levels; for(int level = 1; level &amp;lt;= levels; level++) { for(int espacios = 1; espacios &amp;lt;= (levels - level); espacios++) { cout &amp;lt;&amp;lt; &amp;#34; &amp;#34;; } for(int aster = 1; aster &amp;lt;= (2*level - 1); aster++) { cout &amp;lt;&amp;lt; &amp;#34;* &amp;#34;; } cout &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; } } </description>
+      <guid>http://example.org/two/</guid>
+      <description>Solucion ejercicio 2</description>
     </item>
     
     <item>
-      <title>Solucion ejercicio 1</title>
-      <link>http://example.org/solutions/ciclos/six/</link>
+      <title>Piramide</title>
+      <link>http://example.org/seven/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/solutions/ciclos/six/</guid>
-      <description>#include &amp;lt;iostream&amp;gt; using namespace std; int main() { int levels; cin &amp;gt;&amp;gt; levels; for(int level = levels; level &amp;gt; 0; level--) { for(int aster = 1; aster &amp;lt;= level; aster++) { cout &amp;lt;&amp;lt; &amp;#34;* &amp;#34;; } cout &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; } } </description>
+      <guid>http://example.org/seven/</guid>
+      <description>Solucion ejercicio 7</description>
     </item>
     
     <item>
-      <title>Solucion ejercicio 1</title>
-      <link>http://example.org/solutions/ciclos/three/</link>
+      <title>Triangulo</title>
+      <link>http://example.org/five/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/solutions/ciclos/three/</guid>
-      <description>#include &amp;lt;iostream&amp;gt; using namespace std; int main() { int n; cin &amp;gt;&amp;gt; n; for (int i = 0; i &amp;lt;= n / 2; i++) { cout &amp;lt;&amp;lt; 2 * i + 1&amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; } return 0; } </description>
+      <guid>http://example.org/five/</guid>
+      <description>Solucion ejercicio 5</description>
     </item>
     
     <item>
-      <title>Solucion ejercicio 1</title>
-      <link>http://example.org/solutions/ciclos/two/</link>
+      <title>Triangulo invertido</title>
+      <link>http://example.org/six/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/solutions/ciclos/two/</guid>
-      <description>#include &amp;lt;iostream&amp;gt; using namespace std; int main() { int n; cin &amp;gt;&amp;gt; n; for (int i = 1; i &amp;lt;= n / 2; i++) { cout &amp;lt;&amp;lt; 2 * i &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; } return 0; } </description>
+      <guid>http://example.org/six/</guid>
+      <description>Solucion ejercicio 6</description>
     </item>
     
     <item>

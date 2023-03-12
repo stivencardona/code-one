@@ -66,11 +66,11 @@ Las soluciones a estos problemas estan escritas en c++ para compilarlas tienes v
 
 3. Si eres usuario windows tambien podras descardar `codeblocks` un editor para compilar codigo en `c` y `cpp`
 
-- [Ejercicio 1]({{< ref "/solutions/ciclos/one" >}})
-- [Ejercicio 2]({{< ref "/solutions/ciclos/two" >}})
-- [Ejercicio 3]({{< ref "/solutions/ciclos/three" >}})
-- [Ejercicio 4]({{< ref "/solutions/ciclos/four" >}})
-- [Ejercicio 5]({{< ref "/solutions/ciclos/five" >}})
-- [Ejercicio 6]({{< ref "/solutions/ciclos/six" >}})
-- [Ejercicio 7]({{< ref "/solutions/ciclos/seven" >}})
+- [Ejercicio 1]({{< ref "one" >}})
+- [Ejercicio 2]({{< ref "two" >}})
+- [Ejercicio 3]({{< ref "three" >}})
+- [Ejercicio 4]({{< ref "four" >}})
+- [Ejercicio 5]({{< ref "five" >}})
+- [Ejercicio 6]({{< ref "six" >}})
+- [Ejercicio 7]({{< ref "seven" >}})
 <!-- - [Ejercicio 8]({{< ref "/solutions/ciclos/one" >}}) -->

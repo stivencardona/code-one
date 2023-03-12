@@ -8,31 +8,28 @@
     <loc>http://example.org/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/solutions/ciclos/five/</loc>
+    <loc>http://example.org/one/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/solutions/ciclos/four/</loc>
+    <loc>http://example.org/four/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/solutions/ciclos/one/</loc>
+    <loc>http://example.org/three/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/solutions/ciclos/seven/</loc>
+    <loc>http://example.org/two/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/solutions/ciclos/six/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/solutions/ciclos/three/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/solutions/ciclos/two/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/solutions/</loc>
+    <loc>http://example.org/seven/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/five/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/six/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/ciclos/</loc>
