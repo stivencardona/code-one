@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Code One</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Code One</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-co</language>
+    <lastBuildDate>Sat, 11 Mar 2023 21:09:37 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ciclos</title>
+      <link>http://example.org/posts/ciclos/</link>
+      <pubDate>Sat, 11 Mar 2023 21:09:37 -0500</pubDate>
+      
+      <guid>http://example.org/posts/ciclos/</guid>
+      <description>Ejercicios Dado un numero n mostrar los numeros de 1 hasta n Dado un numero n mostrar los numeros pares de 1 hasta n Dado un numero n mostrar los numeros impares de 1 hasta n Dado un numero n decir si ese numero n es primo Dado un numero n (el numero de niveles) imprimir la siguiente figura: Ejemplo para n = 5 * * * * * * * * * * * * * * * Dado un numero n (el numero de niveles) imprimir la siguiente figura: Ejemplo para n = 5 * * * * * * * * * * * * * * * Dado un numero n (el numero de niveles) imprimir la siguiente figura: Ejemplo para n = 5 * * * * * * * * * * * * * * * * * * * * * * * * * Dado un numero n (el numero de niveles) imprimir el triagulo de pascal: Ejemplo para n = 5 1 1 2 1 1 3 3 1 1 4 6 4 1 1 5 10 10 5 1 </description>
+    </item>
+    
+  </channel>
+</rss>
