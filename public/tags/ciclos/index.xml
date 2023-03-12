@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Code One</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Code One</description>
+    <title>ciclos on Code One</title>
+    <link>http://example.org/tags/ciclos/</link>
+    <description>Recent content in ciclos on Code One</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/ciclos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ciclos</title>
       <link>http://example.org/posts/ciclos/</link>
@@ -15,8 +15,6 @@
       <guid>http://example.org/posts/ciclos/</guid>
       <description>Los ciclos son estructuras basicas de los lenguajes de programcion estos nos permiten repetir un conjunto instrucciones</description>
     </item>
-    
-    
     
     <item>
       <title>Solucion ejercicio 1</title>

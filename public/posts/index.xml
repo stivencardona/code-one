@@ -6,11 +6,11 @@
     <description>Recent content in Posts on Code One</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language>
-    <lastBuildDate>Sat, 11 Mar 2023 21:09:37 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ciclos</title>
       <link>http://example.org/posts/ciclos/</link>
-      <pubDate>Sat, 11 Mar 2023 21:09:37 -0500</pubDate>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/posts/ciclos/</guid>
       <description>Los ciclos son estructuras basicas de los lenguajes de programcion estos nos permiten repetir un conjunto instrucciones</description>
