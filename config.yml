@@ -1,0 +1,11 @@
+baseURL: 'http://example.org/'
+languageCode: 'es-co'
+title: 'Code One'
+theme: 'PaperMod'
+params:
+    homeInfoParams:
+        Title: 'Hola! coder 🙈'
+        Content: En este blog podras encontrar ejemplos practicos de temas basicos de programacion
+    socialIcons:
+      - name: "github"
+        url: "https://www.github.com/stivencardona"

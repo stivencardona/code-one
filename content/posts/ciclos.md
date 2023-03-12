@@ -1,6 +1,7 @@
 ---
 title: "Ciclos"
 date: 2023-03-11T21:09:37-05:00
+description: "Los ciclos son estructuras basicas de los lenguajes de programcion estos nos permiten repetir un conjunto instrucciones"
 draft: false
 ---
 
