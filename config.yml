@@ -53,8 +53,8 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     homeInfoParams:
-        Title: 'Hola! coder 🙈'
-        Content: En este blog podras encontrar ejemplos practicos de temas basicos de programacion
+        Title: 'Hola coder 🙈'
+        Content: En este blog podras encontrar ejemplos practicos de temas basicos y avanzados de programacion
     socialIcons:
       - name: "github"
         url: "https://www.github.com/stivencardona"

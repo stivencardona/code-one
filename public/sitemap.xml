@@ -3,21 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/tags/ciclos/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/ciclos/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/solutions/ciclos/five/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/solutions/ciclos/four/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/solutions/ciclos/one/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/solutions/ciclos/seven/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/solutions/ciclos/six/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/solutions/ciclos/three/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/solutions/ciclos/two/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/solutions/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/ciclos/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/greedy/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/archives/</loc>
@@ -27,9 +51,5 @@
     <loc>http://example.org/search/</loc>
   </url><url>
     <loc>http://example.org/series/</loc>
-  </url><url>
-    <loc>http://example.org/solutions/ciclos/one/</loc>
-  </url><url>
-    <loc>http://example.org/solutions/</loc>
   </url>
 </urlset>
